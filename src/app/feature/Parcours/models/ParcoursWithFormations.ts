@@ -1,4 +1,4 @@
-import {Formation} from "./Formation";
+import {Formation} from "../../Formations/models/Formation";
 
 export interface ParcoursWithFormations{
   parcoursId : string;

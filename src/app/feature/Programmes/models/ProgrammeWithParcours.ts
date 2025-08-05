@@ -1,4 +1,4 @@
-import {Parcours} from "./Parcours";
+import {Parcours} from "../../Parcours/models/Parcours";
 
 export interface ProgrammeWithParcours{
   progId : string;
